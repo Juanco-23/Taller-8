@@ -1,0 +1,9 @@
+.example-spacer {
+    flex: 1 1 auto; 
+  }
+
+.barra{
+    background-color: #064635;
+    color: beige;
+    
+}

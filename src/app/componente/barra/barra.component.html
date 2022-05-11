@@ -1,0 +1,18 @@
+
+  <mat-toolbar class="barra shadow">
+    <button mat-icon-button [matMenuTriggerFor]="menu" class="example-icon" aria-label="Example icon-button with menu icon">
+     <mat-icon>menu</mat-icon>
+   </button>
+   <mat-menu #menu="matMenu">
+    <button mat-menu-item routerLink="/vista2">Cocodrilos</button>
+    <button mat-menu-item routerLink="/vista3">Serpientes</button>
+    <button mat-menu-item routerLink="/vista4">Iguanas</button>
+    
+  </mat-menu>
+  <span routerLink="/inicio">Inicio</span>
+  <span class="example-spacer"></span>
+
+  <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon">
+   <mat-icon>share</mat-icon>
+ </button>
+</mat-toolbar>

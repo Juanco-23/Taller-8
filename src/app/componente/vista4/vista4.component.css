@@ -1,0 +1,27 @@
+.tutulo-1{
+    
+    font-size: xx-large;
+}
+.textiguan{
+    
+    font-size:medium;
+
+}
+.imgeniguan{
+    display: flex;
+    height: 200px;
+    width: 200;
+}
+.imgeniguan2{
+    display: flex;
+    height: 200px;
+    width: 440px;
+
+}
+.iguanascarrusel{
+    display:inline-block;
+    width: 660px;
+    height: 400px;
+    margin-left: 10cm;
+
+}

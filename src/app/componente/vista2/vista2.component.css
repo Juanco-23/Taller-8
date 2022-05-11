@@ -1,0 +1,20 @@
+.tutulo-1{
+    margin-left: 3cm;
+    font-size: xx-large;
+}
+.textcoco{
+    
+    font-size:medium;
+
+}
+.imgen1{
+    display: flex;
+    height: 300px;;
+}
+.carruselcoco{
+    margin-left: 9cm;
+    width: 600px;
+    height: 400px;
+    display:inline-block;
+
+}

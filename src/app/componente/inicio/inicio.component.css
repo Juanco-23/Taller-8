@@ -1,0 +1,17 @@
+.titulo{
+    text-align: center;
+    
+    font-size: xx-large;
+}
+
+.textInicio{
+    text-align: start;
+    font-size: medium;
+    border-color: black;
+    
+    
+}
+.carousel-inner{
+    width: auto;
+    height:auto ;
+}
